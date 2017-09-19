@@ -1,0 +1,19 @@
+{
+  "identifier": "com.creatingascene.app.QuitASceneApp",
+  "name": "Quit A Scene Template",
+  "version": "0.0.1",
+  "author": "Monique, Evgeyny, Patryk,
+  "company": "Creating A Scene",
+  "copyright": "Creative Commons",
+  "description": "Creating Kind of a Scene",
+  "categories": [
+    "living"
+  ],
+  "scripts": "Javascript/init.js",
+  "images": {
+    "about": "Images/Icon.png",
+    "icon": {
+      "192x192": "Images/Icon.png"
+    }
+  }
+}
