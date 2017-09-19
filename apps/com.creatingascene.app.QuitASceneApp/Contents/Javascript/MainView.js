@@ -4,6 +4,7 @@ var MainView = new MAF.Class( {
 
   initialize: function() {
     this.parent();
+    log('hello');
   },
 
   createView: function() {},
